@@ -1,8 +1,8 @@
 console.log("ejercicio con node y expres");
 
-//  index.js
-const { triángulo , cuadrado , rombo } = require ( 'forma de impresión ' )       
+// index.js
+const { triangle, square, rhombus } = require('print-shape')
  
-triángulo ( 6 )
-cuadrado ( 6 )
-rombo ( 6 )
+triangle(6)
+square(6)
+rhombus(6)
